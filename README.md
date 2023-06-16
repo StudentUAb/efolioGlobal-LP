@@ -34,20 +34,29 @@ b) Implemente o método na classe conta cartao para imprimir no ecrã a informa�
 
 ------------------
 <img width="400" src="testes.png" alt="page-home">
-## 
+
+## OCAML ##
+## Sintaxe para compilar:
+<pre>ocamlopt ocaml.ml -o ocaml</pre> 
 
 ## Sintaxe para executar:
-<pre>java -cp .:/caminho/para/o/jpl.jar ArquivoJava</pre> Novamente, substitua /caminho/para/o/jpl.jar pelo caminho completo para o arquivo jpl.jar no seu sistema.
+<pre>./ocaml</pre>
+
+## PROLOG ##
+## Sintaxe para compilar e executar:
+<pre>swipl -s prolog.pl</pre> 
+
+## JAVA ##
+## Sintaxe para compilar:
+<pre>javac Main.java</pre> 
+
+## Sintaxe para executar:
+<pre>java Main</pre>
 
 
 O projeto foi feito em Ocaml, Prolog e Java.
 
-
 The project was done with Ocaml, Prolog e Java.
-
-
-<img width="400" src="assets/print.png" alt="page-home">
-
 
 🔧 Tecnologias utilizadas:
 ------------------
